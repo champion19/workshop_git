@@ -1,9 +1,9 @@
 .h9{
-    color:green;
+    color:red;
 }
 .p{
-    color:cadetblue;
-    text-decoration:dashed;
+    color:violet;
+    text-decoration:dotted;
 }
 body{
     background: url(../images/space.jpg);
